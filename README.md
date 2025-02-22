@@ -1,8 +1,13 @@
 # 📝 Interactive Quiz Platform
 
 **Assignment Submission**  
-**Student Name:** [Your Name]  
-**Date:** [Submission Date]  
+**Name:** Dev Amit Jasani  
+**Email** devjasani79@gmail.com
+**GitHUb** devjasani79
+**Date:** 22-02-2025 
+
+# Site
+**https://reactquizdev79.netlify.app/**
 
 ## 📌 Project Overview
 
