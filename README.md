@@ -1,8 +1,27 @@
-# React + Vite
+# 📝 Interactive Quiz Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Assignment Submission**  
+**Student Name:** [Your Name]  
+**Date:** [Submission Date]  
 
-Currently, two official plugins are available:
+## 📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is an **quiz platform** built using **React (Vite)**. It allows users to attempt multiple-choice and integer-based questions, provides real-time feedback, tracks scores, and saves quiz history using **IndexedDB**.
+
+## 🚀 Features
+
+✅ **Timed Quiz** (30 seconds per question)  
+✅ **Instant Feedback** on answer submission  
+✅ **Multiple Attempts Allowed**  
+✅ **Score Tracking**  
+✅ **Quiz History Stored in IndexedDB**  
+✅ **Clear History Option**  
+
+## 🏗️ Tech Stack
+
+- **Frontend:** Vite + React.js  
+- **State Management:** useState, useEffect  
+- **Routing:** React Router  
+- **Storage:** IndexedDB (via idb package)  
+- **Styling:** Tailwind CSS  
+
