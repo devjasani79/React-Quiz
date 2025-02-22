@@ -28,5 +28,19 @@ This is an **quiz platform** built using **React (Vite)**. It allows users to at
 - **State Management:** useState, useEffect  
 - **Routing:** React Router  
 - **Storage:** IndexedDB (via idb package)  
-- **Styling:** Tailwind CSS  
+- **Styling:** Tailwind CSS
+
+
+## How to Run
+
+**Clone the Repository**
+```bash
+git clone https://github.com/yourusername/quiz-app.git
+cd quiz-app
+```
+**Install & Run**
+```bash
+npm install
+npm run dev
+```
 
